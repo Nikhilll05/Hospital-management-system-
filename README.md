@@ -68,8 +68,6 @@ python main.py
 - View billing history
 - Manage financial records
 
-## Screenshots 📸
-[Add screenshots of key system interfaces]
 
 ## Contributing 🤝
 1. Fork the repository
@@ -78,12 +76,3 @@ python main.py
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Support 📧
-For support, please open an issue in the repository or contact [maintainer email].
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments 🙏
-- Thanks to all contributors who have helped with this project
-- Special thanks to the Python and Tkinter communities
